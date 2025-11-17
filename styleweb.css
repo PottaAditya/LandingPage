@@ -75,7 +75,7 @@ body::-webkit-scrollbar{
         right: 150px;           
         width: 500px;           
         height: 500px;
-        background: url(../paris-33.png) no-repeat center;
+        background: url(paris-33.png) no-repeat center;
         background-size: cover;
         }
         .teks {
@@ -134,7 +134,7 @@ body::-webkit-scrollbar{
         left: 670px; 
         width: 600px;           
         height: 500px;
-        background: url(../pngtree-the-sky-s-limit-3d-rendering-of-an-airplane-soaring-through-image_3838493-removebg-preview.png) no-repeat center;
+        background: url(pngtree-the-sky-s-limit-3d-rendering-of-an-airplane-soaring-through-image_3838493-removebg-preview.png) no-repeat center;
         background-size: cover;
         }
         .gambar22 {
@@ -284,4 +284,5 @@ body::-webkit-scrollbar{
             font-size: 20px;
             font-weight: 700;
         }
+
 
